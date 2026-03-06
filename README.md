@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_scritta.svg" alt="Bluenso" height="300">
+  <img src="logo_scritta.svg" alt="Bluenso" height="500">
 </p>
 
 <br>
