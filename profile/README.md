@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_scritta.svg" alt="Bluenso" height="80">
+  <img src="logo_scritta.svg" alt="Bluenso" height="500">
 </p>
 
 <br>
@@ -25,23 +25,7 @@ Multi-agent AI systems built with LangGraph and LangChain. RAG pipelines, comput
 **Backend & tooling**
 Python/Django backends for device management, remote configuration, and data processing. Multi-tenant architectures, REST APIs, Celery/RabbitMQ task queues, PostgreSQL. Qt5 desktop applications with serial data acquisition, real-time plotting, PDF reporting.
 
----
-
-### Selected projects
-
-**Multi-Brand Fleet Management** `2017–2020` — Full-stack fleet telematics for 500+ vehicles across brands. Real-time telemetry, remote vehicle diagnostics, digital tachograph download. Django multi-tenant backend, Java ARM firmware on i.MX28, MQTT, CAN bus, K-Line.
-
-**Siak — BLE/WiFi Automotive Gateway** `2020–2024` — Embedded C firmware on RP2040 dual-core for wireless vehicle diagnostics. FOTA bootloader with HMAC-SHA256 authentication, K-Line protocol stack, BLE (BTstack) and WiFi (lwIP) multi-peer routing.
-
-**MAReS — Automotive I/O Expansion** `2024–ongoing` — ESP32-S3 custom board with 6x ADC 0–10V, 2x relay, 8x opto-isolated inputs, 2x RS-232. Runtime-configurable rule engine (no firmware recompile needed), FreeRTOS, OTA, peer-to-peer architecture.
-
-**AI Multi-Agent Systems** `2024–2026` — LangGraph-orchestrated multi-agent pipelines for financial advisory, job scouting, and smart home control. YOLO11 computer vision, Faster-Whisper ASR, RAG, Claude Sonnet and GPT-4o.
-
-**SMTS — DLMS/COSEM Gas Meter Testing** `2015–2019` — Portable C library and Qt5 GUI for regulatory compliance testing of smart gas meters (UNI TS 11291). 111 automated test cases, wMBUS, AES-128-GCM/GMAC, YubiKey HSM integration.
-
-**Zenatek Rhea — Vending Machine Firmware** `2017–2019` — ~500K LOC embedded firmware for vending machines on Fujitsu MB96346RS. MDB, Executive, DEX/UCS, DDCMP protocols. Django backend for remote fleet management. 20+ hardware configurations, 7 languages.
-
----
+--- 
 
 ### Stack
 
